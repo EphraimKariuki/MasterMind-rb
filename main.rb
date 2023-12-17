@@ -1,4 +1,4 @@
-class Game(codemaker, codebreaker)
+class Game
     def initialize(codemaker, codebreaker)
       @codemaker = codemaker
       @codebreaker = codebreaker
